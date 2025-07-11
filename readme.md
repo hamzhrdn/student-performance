@@ -60,13 +60,13 @@ Pastikan Docker sudah terinstall di sistem
 3. Input data masukan
 4. Predict
 # **Business Dashboard**
-![Dashboard 1](dashboard\hamzhrdn-dashboard1.png)
+![Dashboard 1](dashboard/hamzhrdn-dashboard1.png)
 Berdasarkan gambar Dashboard 1, dashboard monitor mahasiswa ini menyajikan analisis terhadap data 4.424 total mahasiswa, dengan fokus utama pada status kelulusan dan demografi usia. Data menunjukkan tingkat kelulusan berada di angka 49,93%, sementara tingkat Dropout tercatat sebesar 32,12%, dan sisanya 17,9% masih berstatus terdaftar. Analisis demografis menunjukkan bahwa rata-rata usia mahasiswa saat pertama kali mendaftar adalah 23,27 tahun, dengan grafik batang yang memperlihatkan bahwa kelompok usia 15 - 22,5 tahun merupakan kelompok dengan jumlah pendaftar tertinggi secara absolut untuk semua kategori (lulus, dropout, dan terdaftar), di mana jumlahnya menurun drastis seiring dengan bertambahnya usia pendaftaran. 
 
-![Dashboard 2](dashboard\hamzhrdn-dashboard2.png)
+![Dashboard 2](dashboard/hamzhrdn-dashboard2.png)
 Berdasarkan gambar Dashboard 2, terdapat Bar Chart yang menunjukkan performa akademik pada ketiga kategori siswa. Pada siswa dropout memiliki rata-rata nilai cukup rendah dibanding kategori lainnya dan rata-rata nilai yang menurun pada semester berikutnya. Kemudian pada grafik korelasi antara beban studi dengan tingkat diterima oleh akademik, berdasarkan grafik tersebut semakin tinggi beban studi yang diajukan oleh siswa maka semakin tinggi tingkat penerimaan oleh akademik. Hal ini menandakan akademik akan memproritaskan siswa dengan beban studi yang tinggi. Selain itu, terdapat korelasi antara kondisi finansial dengan tingkat dropout siswa. Pada mahasiswa penerima beasiswa memiliki angka dropout yang sangat rendah (134) dibandingkan dengan yang tidak menerima beasiswa (1.287). Ini menunjukkan bahwa dukungan finansial berperan penting dalam menjaga retensi mahasiswa. Kemudian pada faktor keuangan, s  iswa yang memiliki utang menunjukkan tingkat dropout yang sangat tinggi, yaitu sekitar 48.9% (246 dari 503 siswa). Angka ini jauh lebih tinggi dibandingkan siswa yang tidak memiliki utang, yang tingkat dropout-nya hanya sekitar 7.2% (282 dari 3.921 siswa)  
 
-![Dashboard 3](dashboard\hamzhrdn-dashboard3.png)
+![Dashboard 3](dashboard/hamzhrdn-dashboard3.png)
 Berdasarkan gambar Dashboard 3, terdapat table list yang menunjukkan perbandingan Graduation Rate dan Dropout Rate pada masing-masing Course. Pada tabel tersebut menunjukkan course Biofuel Production Technologies memiliki tingkat dropout yang paling tinggi di angka 0.67 dan graduation yang salah satu paling rendah setelah Informatics Engineering. Pada course dengan tingkat kelulusan yang paling tinggi dicapai oleh jurusan Nursing yang mencapai tingkat kelulusan di angka 0.72 dan dengan angka dropout yang paling rendah di angka 0.15.
 
 ## Credential Metabase
