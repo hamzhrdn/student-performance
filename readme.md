@@ -73,6 +73,9 @@ Berdasarkan gambar Dashboard 3, terdapat table list yang menunjukkan perbandinga
 email: user1234@mail.com
 password: User1234
 
+## Streamlit
+[Streamlit](https://student-performance-hamzhrdn.streamlit.app/)
+
 # **Conclusion**
 Berdasarkan analisis data dan pemodelan machine learning, kesimpulan berikut disusun untuk menjawab permasalahan tingginya tingkat Dropout di Jaya-jaya Institut:
 
