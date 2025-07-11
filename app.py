@@ -180,3 +180,4 @@ if model and scaler:
 
 else:
     st.error("Could not load the model. Please check the file paths and ensure the model files exist.")
+    
